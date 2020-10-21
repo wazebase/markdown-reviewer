@@ -1,0 +1,8 @@
+body {
+    background-color: rgba(69, 148, 151, 0.863);
+    display: grid;
+
+}
+html,body {
+    height: 100%;
+}
